@@ -6,9 +6,6 @@ An audio synthesizer for linux systems.
 
 ## How to run
 
-1. Download the project and compile using make.
-2. Run output file from terminal appending |aplay at the end of the call
-
 ## Roadmap
 
 - [] Complete 8-bit synthesis of c5
