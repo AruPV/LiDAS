@@ -1,4 +1,4 @@
-# A Digital Audio Synthesizer Written in C++ for Linux
+# LIDAS: a Linux Digital Audio Synthesizer (Written in C++)
 
 ## What is this
 
