@@ -2,7 +2,7 @@
 
 ## What is this
 
-An audio synthesizer for linux systems.
+An audio synthesizer for Linux.
 
 ## How to run
 
